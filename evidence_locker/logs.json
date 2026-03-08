@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1jxlo",
+    "timestamp": "2026-03-08T08:07:27.404Z",
+    "message": "System initialized. Secure authentication token verified.",
+    "type": "info"
+  },
+  {
+    "id": "rbpykk",
+    "timestamp": "2026-03-08T08:07:32.339Z",
+    "message": "Initiating restoration protocol for: malware_payload.txt...",
+    "type": "info"
+  },
+  {
+    "id": "05jr5",
+    "timestamp": "2026-03-08T08:07:33.844Z",
+    "message": "Restoration error for malware_payload.txt: File is not encrypted with expected signature",
+    "type": "error"
+  },
+  {
+    "id": "khq4d3",
+    "timestamp": "2026-03-08T08:07:45.787Z",
+    "message": "System initialized. Secure authentication token verified.",
+    "type": "info"
+  },
+  {
+    "id": "mdizq",
+    "timestamp": "2026-03-08T08:07:47.973Z",
+    "message": "Running Deep Threat Analysis on: 2c893a09de0c9208d9a38121ac99ece5.png...",
+    "type": "info"
+  },
+  {
+    "id": "s9ben9",
+    "timestamp": "2026-03-08T08:07:48.013Z",
+    "message": "Analysis complete. Risk Level: Critical (Score: 100)",
+    "type": "error"
+  },
+  {
+    "id": "xvw2br",
+    "timestamp": "2026-03-08T08:08:00.211Z",
+    "message": "Running Deep Threat Analysis on: logs.json...",
+    "type": "info"
+  },
+  {
+    "id": "bgpja",
+    "timestamp": "2026-03-08T08:08:00.565Z",
+    "message": "Analysis complete. Risk Level: Medium (Score: 60)",
+    "type": "error"
+  },
+  {
+    "id": "q2jmgr",
+    "timestamp": "2026-03-08T08:08:09.272Z",
+    "message": "Uploading evidence: 2c893a09de0c9208d9a38121ac99ece5.png.txt...",
+    "type": "upload"
+  },
+  {
+    "id": "33snag",
+    "timestamp": "2026-03-08T08:08:09.296Z",
+    "message": "Successfully uploaded: 2c893a09de0c9208d9a38121ac99ece5.png.txt",
+    "type": "success"
+  },
+  {
+    "id": "ae1ej3",
+    "timestamp": "2026-03-08T08:08:10.871Z",
+    "message": "Initiating restoration protocol for: 2c893a09de0c9208d9a38121ac99ece5.png.txt...",
+    "type": "info"
+  },
+  {
+    "id": "zbmsih",
+    "timestamp": "2026-03-08T08:08:12.418Z",
+    "message": "Successfully restored: 2c893a09de0c9208d9a38121ac99ece5.png",
+    "type": "success"
+  },
+  {
+    "id": "s8g3sj",
+    "timestamp": "2026-03-08T08:09:51.225Z",
+    "message": "System initialized. Secure authentication token verified.",
+    "type": "info"
+  }
+]

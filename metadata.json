@@ -1,0 +1,5 @@
+{
+  "name": "Blue Team Console",
+  "description": "Incident Response & Recovery Console for restoring encrypted files.",
+  "requestFramePermissions": []
+}
